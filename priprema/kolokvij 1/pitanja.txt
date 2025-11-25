@@ -1,0 +1,13 @@
+Pitanja za provjeru znanja.
+
+
+1.  Što su regularni izrazi i koja je njihova uloga u obradi teksta?
+2.  Kako se automati konačnog stanja povezuju s regularnim jezicima i zašto su ekvivalentni regularnim izrazima?
+3.  Koje su osnovne operacije nad regularnim jezicima i što označava Kleenov operator?
+4.  Koja je razlika između regularnih izraza i regularnih relacija?
+5.  Što je transduktor konačnog stanja, koje su njegove komponente i čemu služi?
+6.  Što je dvorazinska morfologija i kako se primjenjuje u morfološkom parsiranju?
+7.  Što je jezični model?
+8.  Kako funkcionira N-gram model, što je Markovljeva pretpostavka i zašto je potrebno zaglađivanje?
+9.  Što je perpleksnost i kako se koristi za evaluaciju jezičnih modela?
+10. Što je HMM u kontekstu POS označavanja i koja je uloga Viterbi algoritma?
