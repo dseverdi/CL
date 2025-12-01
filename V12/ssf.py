@@ -37,7 +37,7 @@ POS_TAG = {
 CODE_OK = 200
 
 # SSF code 
-api_url = "http://ss-framework.com/api/fpj"
+api_url = "http://dev.ss-framework.com/api/fpj"
 key = "429ae4bfe8088f071abef86ac021653b"
 
 # supported languages (only: hr)
