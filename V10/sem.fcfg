@@ -1,7 +1,0 @@
-% start S
-# Grammar Rules
-S[SEM=<?vp(?np)>] -> NP[SEM=?np] VP[SEM=?vp]
-VP[SEM=?v] -> IV[SEM=?v]
-# Lexical Rules
-NP[SEM=<cyril>] -> 'Cyril'
-IV[SEM=<\x.bark(x)>] -> 'barks'
