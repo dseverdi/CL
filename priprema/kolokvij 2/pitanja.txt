@@ -1,0 +1,13 @@
+Pitanja za provjeru znanja.
+
+
+1.  Objasnite razliku između nadziranog i nenadziranog učenja u obradi prirodnog jezika
+2.  Pretpostavimo da imamo binarni klasifikator za sentiment analizu temeljen na naivnom Bayesovom modelu. Kako se računa vjerojatnost klase za dokument koristeći? Napišite formulu.
+3.  Kako se u binarnoj logističkoj regresiji modelira vjerojatnost da uzorak pripada nekoj klasi? Navedite formulu i objasnite ulogu sigmoid funkcije.
+4.  Koji je osnovni cilj K-means algoritma i kako se iterativno ažuriraju centri klastera?
+5.  Definirajte metrike preciznost i odziv u kontekstu evaluacije binarnog klasifikatora. Zašto se koristi F-mjera?
+6.  Objasnite što je WordNet baza podataka. Na koji način se iskazuje sličnost između pojmova preko WordNet-a?
+7.  Zašto se u modernom NLP-u preferira korištenje vektora riječi umjesto tradicionalnih one-hot reprezentacija? Objasnite prednosti ovog pristupa.
+8.  Koja je temeljna ideja algoritma Word2Vec i koje su njegove dvije glavne varijante? Opišite kako se vektori riječi uče u ovom okviru.
+9.  Definirajte što je to TF-IDF mjera i za što se koristi.
+10. Ako su riječi reprezentirani vektorima riječi objasnite na koji način matematički možete računati sličnost između tih riječi.
